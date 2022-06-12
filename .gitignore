@@ -25,3 +25,7 @@ rules.ninja
 *.opendb
 Debug
 x64
+
+cmake-build-*
+.idea
+.cache
